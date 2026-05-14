@@ -1,4 +1,4 @@
-# PCM-VLA Submission Code
+# PCM-VLA
 
 This repository contains the code needed to run PCM-VLA on LIBERO-Spatial.
 Checkpoints are hosted on HuggingFace and should be downloaded separately.
